@@ -1,0 +1,19 @@
+{
+  "name": "com.uma",
+  "author": "UMA",
+  "displayName": "UMA Tools",
+  "version": "0.0.1",
+  "unity": "2020.1",
+  "keywords": [
+    "Testing",
+    "Play mode tests",
+    "Edit mode tests",
+    "Unit tests",
+    "Integration tests"
+  ],
+  "category": [
+    "Testing"
+  ],
+  "description": "UMA Tools",
+  "type": "tests"
+}
